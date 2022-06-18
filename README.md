@@ -1,2 +1,2 @@
-# echo_number_c
+# Echo Number
 Simply displays the number you enter
